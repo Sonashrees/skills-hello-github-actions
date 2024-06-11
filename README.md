@@ -2,11 +2,14 @@
 
 # Hello GitHub Actions
 
-_Create and run a GitHub Actions workflow._
+_Create and run a GitHub Actions workflow._hgf
 
 </header>
 
 ## Finish
+
+
+_You've now added a fully functioning workflow to your repository! :smile:_htf
 
 _Congratulations friend, you've completed this course!_
 
